@@ -1,0 +1,6 @@
+
+{
+  "Name": "observer",
+  "Registry ID": "tg:observer",
+  "Class": "com.ancient.thaumicgadgets.entity.entity.EntityObserver"
+}
